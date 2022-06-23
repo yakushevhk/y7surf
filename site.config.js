@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Y&',
-  domain: 'dev.y7.surf',
+  name: 'Y7',
+  domain: 'notes.y7.surf',
   author: 'Yakushev Hermann',
 
   // open graph metadata (optional)
-  description: 'Black Box',
-  socialImageTitle: 'Black Box',
-  socialImageSubtitle: 'Black 👋',
+  description: 'YH',
+  socialImageTitle: 'YH',
+  socialImageSubtitle: 'YH 👋',
 
   // social usernames (optional)
 
